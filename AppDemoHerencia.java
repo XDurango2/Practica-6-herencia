@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author us
+ * @author Hector Duran
  */
 public class AppDemoHerencia {
     static private ArrayList <Smartphone> listaDeSmartphones;

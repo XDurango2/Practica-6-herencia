@@ -6,7 +6,7 @@
 
 /**
  *
- * @author us
+ * @author Hector Duran 
  */
 public class Computadora extends DispositivoElectronicoDeConsumo {
     private Microprocesador cpu;

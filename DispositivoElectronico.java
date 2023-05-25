@@ -9,7 +9,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author us
+ * @author Hector Duran
  */
 public abstract class DispositivoElectronico {
     private boolean tipo;

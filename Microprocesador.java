@@ -6,7 +6,7 @@
 
 /**
  *
- * @author us
+ * @author Hector Duran
  */
 public class Microprocesador extends ComponenteElectronico {
     protected int cacheRAM;

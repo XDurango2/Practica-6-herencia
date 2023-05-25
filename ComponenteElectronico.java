@@ -6,7 +6,7 @@
 
 /**
  *
- * @author us
+ * @author Hector Duran
  */
 public abstract class ComponenteElectronico extends DispositivoElectronico {
     

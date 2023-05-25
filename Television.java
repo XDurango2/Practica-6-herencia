@@ -8,11 +8,11 @@ import java.awt.Image;
 
 /**
  *
- * @author us
+ * @author Hector Duran
  */
 public class Television extends DispositivoElectronicoDeConsumo {
     private Pantalla pantallaTV;
-    private Image imagen;
+    
     public Television(String fabricante, String numeroSerie, String marca, String nombre, double costo,Pantalla newPantallaTV) {
         super(fabricante, numeroSerie, marca, nombre, costo);
         this.pantallaTV = newPantallaTV;

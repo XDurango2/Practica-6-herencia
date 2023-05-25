@@ -6,7 +6,7 @@
 
 /**
  *
- * @author us
+ * @author Hector Duran
  */
 public class Pantalla extends ComponenteElectronico {
     protected int resolucionX;

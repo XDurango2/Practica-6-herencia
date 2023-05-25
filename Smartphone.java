@@ -6,7 +6,7 @@
 
 /**
  *
- * @author us
+ * @author Hector Duran
  */
 public class Smartphone extends Computadora {
     private Sensor sensorDeHuella;

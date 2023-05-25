@@ -6,7 +6,7 @@
 
 /**
  *
- * @author us
+ * @author Hector Duran
  */
 public abstract class DispositivoElectronicoDeConsumo extends DispositivoElectronico{
     protected boolean encendido;

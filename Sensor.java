@@ -6,7 +6,7 @@
 
 /**
  *
- * @author us
+ * @author Hector Duran
  */
 public class Sensor extends ComponenteElectronico {
     private String tipo;
